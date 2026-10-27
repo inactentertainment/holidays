@@ -1,2 +1,3 @@
-# holidays
-An immersive, interactive Thanksgiving and Christmas destination featuring holiday music, movies, recipes, games, gift guides, free downloads, family traditions, seasonal events, and festive shopping experiences.
+# Holidays — Independent GitHub Pages Site
+
+Standalone holiday website for InAct Entertainment. Publish this repository from `main` / root in GitHub Pages settings. The original enhanced background is bundled in `assets/holiday-background.webp`. This repository does not require ieplr.com.
